@@ -1,6 +1,9 @@
-echo $0
-echo $1
-echo $2
-echo $*
-echo $@
-echo $#
+echo $0 #script name
+echo $1 # first arg
+echo $2 #sec arg
+echo $* #1and 2
+echo $@ #1 and 2
+echo $# #number of arguments
+
+
+##special variables
