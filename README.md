@@ -6,6 +6,8 @@
 1.Shebang & Comments (Scripting Concept)
 2.Print (Command)
 3.Redirectors & Quotes (Linux Concept)
+keboard --> input --->  >-  ------? ouptut file this is used f or 
+STDOUT (>) STDIN(<>)
 4.Variables (Scripting Concept)
 5.Input (Scripting Concept)
 6.Functions (Scripting Concept)
